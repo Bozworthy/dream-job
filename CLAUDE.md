@@ -71,9 +71,6 @@ Contains work in progress and temporary files.
 /templates
 Contains reusable templates and frameworks.
 
-# Open reminders
-* PDF export + tracking-link injection (jonathanbosworth.com/software?ref={company-slug}) is on hold until the SOT accuracy pass is done. Resume template is done (Google Doc, approved 2026-09-06). Once the SOT pass lands, come back and build the tracked PDF step. Remove this line once done.
-
 # Success criteria
 A successful output should be:
 * clear
