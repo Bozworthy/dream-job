@@ -13,6 +13,10 @@ Step 1: Automated search cadence:
 - **Tuesday, 9:00 AM ET**: full search — run the complete search and qualification process, with results ready by 10:00 AM ET.
 - **Any other time**: on-demand, triggered by Jon prompting "Let's find a dream job" in the dream-job project. Claude pulls from the most recent automated search rather than searching live, unless enough time has passed that a fresh search makes more sense.
 
+Every pass — automated or on-demand — runs two search modes, not one (full detail in job_search_criteria.md's Search sources section and company_ats_directory.md's platform-wide query templates):
+1. Named company sweep — check each named target company directly against its known ATS.
+2. Platform-wide role sweep — search each major ATS platform directly for the target roles, independent of company name, so a strong-fit role at an unnamed-but-reputable company doesn't get missed just for being off the list. Verify anything this surfaces the same way as a named-company find, and check it against the reputability bar in job_search_criteria.md before including it in a report.
+
 Step 2: Identify the top 3-5 roles from the most recent search, sorted by priority. Priority order:
 1. Fitness — likelihood of getting the job and skills match (primary)
 2. Recency of the posting (secondary)

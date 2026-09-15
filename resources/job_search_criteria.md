@@ -26,6 +26,12 @@ Priority markets: FL, GA, NY, DC, VA, TX — not exclusive to those.
 Primary: company career pages, and ATS platforms directly (Greenhouse, Lever, Ashby, Workday, iCIMS public job boards, etc.).
 LinkedIn and job aggregators (Indeed, Wellfound, etc.) may be used for discovery/cross-verification, but the posting must still be confirmed live on the employer's own career page or ATS before it counts as verified.
 
+Every search pass runs two modes, not one:
+1. **Named company sweep** — check each named target company directly against its known ATS (see company_ats_directory.md).
+2. **Platform-wide role sweep** — search each major ATS platform (Greenhouse, Ashby, Lever, Workday) directly for the target role terms, with no company name in the query. This is required, not optional — it's the only way to find a strong-fit role at a company that was never on the named list. Query templates and role terms live in company_ats_directory.md.
+
+Neither mode replaces the other, and neither excludes results the other one finds. Named companies keep the ranking boost described under Company preference below; roles found through the platform-wide sweep at unnamed companies compete on fitness/recency/pay like everything else, once they clear the reputability check below.
+
 ## Company preference
 Not a restricted list — company fit is secondary to role fit. Ranking boost for:
 * High-quality product organizations doing consequential work in AI, conversational experiences, fintech, personalization, or complex digital products
@@ -33,6 +39,8 @@ Not a restricted list — company fit is secondary to role fit. Ranking boost fo
 * Companies where Credit Karma experience gives an unusually strong fit (fintech, consumer product at scale)
 
 Highest recurring interest / target companies: Bumble, Google, Meta, Apple, Netflix, Spotify, Notion, Figma, Pinterest, Stripe, Block / Square / Cash App, PayPal, Atlassian.
+
+**Reputability bar for companies found outside the named list** (via the platform-wide role sweep): the employer should be a recognizable, established product company or a credibly funded/growing startup, not a staffing firm, agency-of-record, or content mill. When in doubt, include it and flag the doubt rather than silently dropping it — Jon makes that call, not the filter. This bar decides whether an unnamed company's posting is worth surfacing at all; it doesn't replace the two-tier posting qualification below, which every posting from every company still has to pass.
 
 ## Exclusions
 * Fidelity
