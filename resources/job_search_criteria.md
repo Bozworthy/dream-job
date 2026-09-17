@@ -22,6 +22,8 @@ Preferred: Remote or Jacksonville, FL based. Bias toward fully remote positions 
 Open to relocating for strong-fit roles.
 Priority markets: FL, GA, NY, DC, VA, TX — not exclusive to those.
 
+A role outside these locations needs a genuinely strong fit to justify the relocation ask — a named target company alone doesn't clear that bar. If the subject-matter/background fit is weak and the location is also outside preference, that combination should drop the role out of the recommended tier rather than ride in on company recognition alone.
+
 ## Search sources
 Primary: company career pages, and ATS platforms directly (Greenhouse, Lever, Ashby, Workday, iCIMS public job boards, etc.).
 LinkedIn and job aggregators (Indeed, Wellfound, etc.) may be used for discovery/cross-verification, but the posting must still be confirmed live on the employer's own career page or ATS before it counts as verified.
