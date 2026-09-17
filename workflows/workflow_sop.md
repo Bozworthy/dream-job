@@ -3,11 +3,12 @@
 ## Goal
 Produce the best roles, and why they are the best, for Jon to apply to and provide a tailored resume and the information he needs to optimize his success probability of getting the job.
 
-## Application tracking sheet
-https://docs.google.com/spreadsheets/d/1Wilv7RxgejAtZ_CMQjkMjQacMijoBPD2ymJ32pvtsco/edit
-Columns: Date Added, Company, Role, Priority, Resume (Doc), Resume (PDF), Apply Link, Tracking Link, Date Applied, Confirmation Email Received, Confirmation Date, Status, Notes.
+## Job tracker
+Location: unresolved as of 2026-09-17. This is explicitly NOT the Google Sheet above (it was created 2026-09-07, abandoned unused, and confirmed empty as of 2026-09-17) — Jon decided against Google Sheets because Claude had no way to write to it. Jon confirms a real tracker exists and is current (used to confirm the Pinterest application, applied 2026-09-07), but its actual location hasn't been identified in this session — checked and ruled out: this Drive account (broad search, all file types), Gmail, every Claude Artifact on the account, every published Replit app, and this repo's local files. Get the location from Jon directly rather than guessing again. Once resolved, replace this note with the real location and access method.
 
 ## Process
+Step 0: Check the job tracker before running any search pass — automated or on-demand. Cross-reference every company/role already applied to (or already in the pipeline) against what the search is about to surface, so an already-applied role doesn't get re-presented as a new recommendation. This is a real, confirmed failure mode: the week of 2026-09-14, Pinterest's Content Designer II, Personalization role got presented fresh every day Monday through Thursday, despite Jon having applied to it 2026-09-07, because nothing checked the tracker first.
+
 Step 1: Automated search cadence:
 - **Monday, 12:00 PM ET**: quick check — scan for new postings and tell Jon approximately how many meet the qualification criteria. Not a full ranked list, just a count so he knows what to expect.
 - **Tuesday, 9:00 AM ET**: full search — run the complete search and qualification process, with results ready by 10:00 AM ET.
@@ -34,9 +35,9 @@ Step 6: Prepare any ancillary documents (cover letter, blog post for portfolio, 
 
 Step 7: Jon applies and shares the final resume and collateral he actually submitted. Receiving that submission is the confirmation the application happened — Claude logs the date and time at that point, starting the clock on monitoring email response. If a role was recommended and no submission was shared by the next time Jon runs "Let's find a dream job," Claude pings Jon to ask whether he applied, and uses his answer to inform future selection and prioritization strategy.
 
-Once submission is confirmed, Claude adds the role to the application tracking sheet — company, role, resume link, tracking link, and date applied — then begins checking email for a submission-confirmation message from the employer/ATS and records that confirmation date in the sheet once it arrives.
+Once submission is confirmed — same day, not deferred — Claude updates the job tracker: company, role, resume link, apply link, tracking link, and date applied. Then Claude begins checking email for a submission-confirmation message from the employer/ATS and records that confirmation date in the tracker once it arrives.
 
-Step 8: Claude continues to monitor progress via emails received, activity on the portfolio site, or link activity, especially tracking for interview requests, updating the tracking sheet as status changes. LinkedIn activity is monitored by Jon independently (or checked when Claude prompts him to) — not something Claude tracks automatically.
+Step 8: Claude continues to monitor progress via emails received, activity on the portfolio site, or link activity, especially tracking for interview requests, updating the job tracker as status changes. LinkedIn activity is monitored by Jon independently (or checked when Claude prompts him to) — not something Claude tracks automatically.
 
 Step 9: Claude helps Jon prepare for each interview, highlighting talking points and follow-up conversations with each interviewer, from recruiter through panel interview.
 
