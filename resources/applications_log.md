@@ -38,3 +38,8 @@ Rebuilt 2026-09-23. Application date = the Google Drive creation date of the tai
 - Rejections: 3 (Spring Health after 7 days, Airbnb after 3, Chime after 13).
 - No response past the confirmation: 24, some of them now 4 to 7 weeks old.
 - Across about 25 target-level content or conversation design applications, none has reached a human screen yet.
+
+## Resume audits against the SOT
+- 2026-09-23, Capital One Sr Mgr Content Design (8/31): Penny listed under randrr (SOT: Credit Karma 2018–2019); "80% of claims within a week" (retired; SOT: within 5 minutes); Vizergy "Director of Content" (SOT: Manager, Content Strategy); "feature discovery 19–54%, adoption 4–45%" not in SOT.
+- 2026-09-23, Amazon Sr. UX Conversation Designer (8/27): "feature discovery 19–54%, adoption 4–45%" not in SOT.
+- The other 26 resumes haven't been audited yet.

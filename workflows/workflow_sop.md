@@ -9,7 +9,16 @@ Location (confirmed by Jon 2026-09-23): the Replit project https://replit.com/@w
 Access status as of 2026-09-23: Claude can't read it yet. The replit.com project page needs a Replit login, and this session has no Replit connector. The published app (website-analytics-hub.replit.app) serves only the site-analytics dashboard. Its routes are /, /devices, /events, /pages, /referrers, /snippet, and its public API is /api/analytics/* (summary, timeseries, top-pages, referrers, devices, recent). No tracker route or data is in the published build. Until access is solved, rebuild the applied list from Gmail confirmations and treat it as partial.
 
 ## Process
-Step 0: Check the job tracker before running any search pass — automated or on-demand. Cross-reference every company/role already applied to (or already in the pipeline) against what the search is about to surface, so an already-applied role doesn't get re-presented as a new recommendation. This is a real, confirmed failure mode: the week of 2026-09-14, Pinterest's Content Designer II, Personalization role got presented fresh every day Monday through Thursday, despite Jon having applied to it 2026-09-07, because nothing checked the tracker first.
+Step 0: Check what Jon has already applied to before running any search pass, automated or on-demand. Cross-reference every company and role against three sources, because none of them is complete on its own:
+1. The job tracker (Replit, see above), once it's readable.
+2. Google Drive: search for resumes created in the last 90 days (`title contains 'Resume'`). Each tailored resume's creation date counts as the application date, per Jon (2026-09-23). Read the resume's header or summary when the filename doesn't give the exact role title.
+3. Gmail: search for application confirmations and rejections since the last pass.
+
+A role is out of the report if any of the three shows an application, and it's also out if the title matches even when the company only uses a generic name ("Amazon ConversationDesign"). When a match is likely but not certain, list the role under "possibly already applied" instead of recommending it. Update resources/applications_log.md with anything new.
+
+This is a real, confirmed failure mode, twice over. The week of 2026-09-14, Pinterest's Content Designer II, Personalization role was presented as new every day Monday through Thursday, even though Jon applied 2026-09-07. On 2026-09-23, Amazon's Sr. UX Conversation Designer (Customer Service) was recommended even though Jon had applied 8/27. Gmail showed no confirmation, and the Drive resume was never checked.
+
+Step 0b: Audit every newly found submitted resume against source_of_truth.md, once per resume. Flag employer or date misattributions, retired phrasings, titles that differ from the chronology, and metrics missing from the SOT. Tell Jon once, in plain terms, because these claims can come up in a screen. Don't re-flag the same resume on later passes. Record the audit date in applications_log.md.
 
 Step 1: Automated search cadence:
 - **Monday, 12:00 PM ET**: quick check — scan for new postings and tell Jon approximately how many meet the qualification criteria. Not a full ranked list, just a count so he knows what to expect.
