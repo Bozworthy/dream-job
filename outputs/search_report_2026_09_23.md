@@ -2,22 +2,10 @@
 
 Both search modes ran: the named-company sweep and the platform-wide sweep (about 480 company slugs checked against the Greenhouse, Ashby, and Lever APIs, plus Workday, Amazon, and Netflix searches). Every role below was confirmed live on the employer's own ATS today.
 
-## Step 0: already applied (rebuilt from Gmail because the tracker location is still unknown)
+## Step 0: already applied
+See resources/applications_log.md (28 entries rebuilt from Drive resume creation dates and Gmail).
 
-| Date | Company | Role | Status from email |
-|---|---|---|---|
-| 9/1 | IQ Fiber | Content Manager | Screen 9/2, in-person interview 9/10. Outcome unknown |
-| 9/1 | Intercontinental Exchange | Content Writer | Confirmation only |
-| 9/3 or earlier | Spring Health | Staff AI Interaction Designer | Rejected 9/3 |
-| 9/7 | Pinterest | Content Designer II, Personalization | Confirmation only. Posting still live |
-| 9/8 | Chime | Senior Content Strategist | Rejected 9/21, "position filled" (13 days) |
-| 9/9 | Meta | Content Designer (exact title cut off) | Confirmation only |
-| 9/13 | EY | Digital Content Strategist, 12-month FTC | Confirmation only |
-| 9/14 | Airbnb | Staff UX Writer (Host) | Rejected 9/17 (3 days) |
-| 9/14 | Netflix | Staff Systems Designer, Language | Confirmation only. The posting no longer shows up in Netflix's search |
-| 9/15 | Cisco | Unknown role | Confirmation only |
-
-None of the roles below overlap with this list.
+Correction after the Drive check: Amazon's Sr. UX Conversation Designer (Customer Service) was probably applied to on 8/27 (the resume title matches). It moves out of the recommended list. Capital One: you applied to a Sr Manager, Content Design role on 8/31. The Core Card Manager role below is a different requisition.
 
 ## Recommended
 
@@ -30,7 +18,7 @@ None of the roles below overlap with this list.
 - How you fit: six years at Credit Karma designing for credit products, in a regulated space, at scale. You led the content design team's contribution to Thread/KPL, and you led a team of 10 content designers. The requirements line up with your record almost item for item.
 - Challenges: you would have to relocate to VA or NY (both are priority markets). Capital One's hiring loop usually includes a structured case exercise. The "Manager" title sits below your Principal title, which may raise a level question. The 2024–2025 career break will come up.
 
-### 2. Amazon: Sr. UX Conversation Designer, Amazon Customer Service
+### 2. (Already applied 8/27, kept for reference) Amazon: Sr. UX Conversation Designer, Amazon Customer Service
 - Location: Austin TX or Seattle WA. Amazon expects five days a week in the office.
 - Pay: $137.8K–$186.4K.
 - Posted around 6/5, so it has been open for about 3.5 months. It is still live on amazon.jobs and also appears on LinkedIn and Indeed.
