@@ -7,6 +7,7 @@ First synthesis of application outcomes and portfolio analytics (SOP Step 11). D
 | Stage | Count |
 |---|---|
 | Applications with ATS confirmation | ~30 |
+| Resumes built in Drive with no confirmation on record | 9 (see tracker) |
 | Evidence a person viewed the portfolio | 3 (IQ Fiber, Chime, EY likely) |
 | Interview processes | 2 (IQ Fiber, Pearl), plus 1 agency AI screen (Onward Search) |
 | Rejections | 9 |
@@ -14,7 +15,8 @@ First synthesis of application outcomes and portfolio analytics (SOP Step 11). D
 
 ## Response timing (9 rejections, small sample)
 
-- **1–2 days (Cisco, CVS):** consistent with an automated screen.
+- **1 day (Cisco):** consistent with an automated screen.
+- **CVS (1.6 days):** the Senior Content Designer resume was logged against a Scrum Master requisition. Likely a submission error. Excluded from screening analysis.
 - **3–13 days (Wealthfront, Airbnb, Spring Health, PwC, Chime):** mix of screening and human review.
 - **~4 weeks (Bolt.new, Amazon AWS):** late batch declines.
 - **"Filled" (Chime, Bolt.new):** the role closed. Excluded from ATS-versus-human analysis.
@@ -42,9 +44,14 @@ All tagged links land on `/software`. Only IQ Fiber and Bumble got a company-spe
 4. **Attribution misses `?ref=` codes:** the "Tracked link" cohort shows 0 while `?ref=` visits exist.
 5. **Fixed time filter:** the stats endpoints accept only `period=all` or the default last 7 days.
 
+## Process gap
+
+Two mismatches between Drive and the ATS emails (CVS req, several resumes with no confirmation) mean the submission step is where records drift. Logging the req ID and confirmation email at submission (SOP Step 7) would catch this the same day.
+
 ## Options to consider
 
 - **Company page test:** build a company-specific page for the next top-priority application and compare against `/software` links.
 - **Follow up on EY:** most outside reading after IQ Fiber, no decision after 17 days.
 - **Self-exclusion:** add a self-exclusion flag to the tracking snippet (a localStorage opt-out on Jon's browsers) before judging any more `?ref=` data.
+- **CVS:** check whether the Senior Content Designer role is still live and apply to the correct requisition.
 - **Staff-level roles:** track Staff-level results separately to test the fast-rejection pattern.
