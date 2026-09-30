@@ -53,5 +53,5 @@ Two mismatches between Drive and the ATS emails (CVS req, several resumes with n
 - **Company page test:** build a company-specific page for the next top-priority application and compare against `/software` links.
 - **Follow up on EY:** most outside reading after IQ Fiber, no decision after 17 days.
 - **Self-exclusion:** add a self-exclusion flag to the tracking snippet (a localStorage opt-out on Jon's browsers) before judging any more `?ref=` data.
-- **CVS:** check whether the Senior Content Designer role is still live and apply to the correct requisition.
+- **CVS:** check Candidate Home to see which title the application is filed under. No CVS content design role is live as of 9/30.
 - **Staff-level roles:** track Staff-level results separately to test the fast-rejection pattern.

@@ -42,7 +42,7 @@ Last updated: 2026-09-30, rebuilt from Gmail (ATS confirmation and decision emai
 | Wealthsimple | Staff Content Designer, Investing | 2026-09-25 | `wealthsimple-scd` | None | 5 |
 | Huge | Director, AI Content Strategy | 2026-09-25 | `huge-dacs` | None | 5 |
 
-Note on CVS: Jon built a Senior Content Designer resume and cover letter (Drive, 9/25 14:06, link `cvs-scd`). CVS's confirmation 36 minutes later lists req R1040611 Senior Manager, Scrum Master. The Content Designer resume was most likely submitted to the wrong requisition, which would explain the 1.6-day rejection. The Senior Content Designer role itself has no application on record.
+Note on CVS: Jon built a Senior Content Designer resume and cover letter (Drive, 9/25 14:06, link `cvs-scd`). CVS's confirmation 36 minutes later lists req R1040611 Senior Manager, Scrum Master. Jon produced only one CVS resume, so this is one application: either the Content Designer resume went to the wrong requisition, or CVS's Workday mislabeled it. Checked CVS's Workday board 9/30: R1040611 and any Senior Content Designer posting are no longer live. Jon's CVS Candidate Home page would show which title the application sits under.
 
 ## Closed
 
