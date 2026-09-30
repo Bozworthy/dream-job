@@ -4,7 +4,7 @@
 Produce the best roles, and why they are the best, for Jon to apply to and provide a tailored resume and the information he needs to optimize his success probability of getting the job.
 
 ## Job tracker
-Location: outputs/application_tracker.md in this repo (created 2026-09-30). Claude reads and writes it directly and commits changes. Rebuild sources when something is missing: Gmail ATS confirmation/decision emails, and the portfolio dashboard.
+Location: outputs/application_tracker.md in this repo (created 2026-09-30). Jon applies right after each resume is generated and confirms in chat, so every tailored resume in Drive counts as an application even without an ATS email. Claude reads and writes it directly and commits changes. Rebuild sources when something is missing: Gmail ATS confirmation/decision emails, and the portfolio dashboard.
 
 Portfolio analytics: website-analytics-hub.replit.app (Replit). Its /events page is the raw page-view feed, not an application tracker. Read data through the API: /api/analytics/recent?page=N (50 events per page, newest first), and /api/analytics/{summary,top-pages,referrers,attribution,devices}?period=all. Jon uses macOS only, so non-macOS visits are other people. Google Analytics is not part of this workflow.
 

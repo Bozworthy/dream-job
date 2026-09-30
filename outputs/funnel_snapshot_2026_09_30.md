@@ -1,26 +1,28 @@
 # Funnel snapshot, 2026-09-30
 
-First synthesis of application outcomes and portfolio analytics (SOP Step 11). Data: Gmail Aug 1 to Sep 30, and all 635 portfolio events since tracking began Aug 6 (website-analytics-hub.replit.app). Per-application detail lives in application_tracker.md.
+First synthesis of application outcomes and portfolio analytics (SOP Step 11). Data: Gmail Jul 10 to Sep 30, tailored resumes in Google Drive (each one is an application), and all 635 portfolio events since tracking began Aug 6 (website-analytics-hub.replit.app). Per-application detail lives in application_tracker.md.
 
 ## Funnel
 
 | Stage | Count |
 |---|---|
-| Applications with ATS confirmation | ~30 |
-| Resumes built in Drive with no confirmation on record | 9 (see tracker) |
+| Applications (Jul 10 – Sep 30) | 47 |
+| With an ATS confirmation email | 35 |
+| With no confirmation email | 10, plus 2 unclear (see tracker note) |
 | Evidence a person viewed the portfolio | 3 (IQ Fiber, Chime, EY likely) |
 | Interview processes | 2 (IQ Fiber, Pearl), plus 1 agency AI screen (Onward Search) |
-| Rejections | 9 |
+| Closed | 13 (4 are "filled" or the CVS requisition mix-up) |
 | Offers | 0 |
 
-## Response timing (9 rejections, small sample)
+## Response timing (13 closed, small sample)
 
-- **1 day (Cisco):** consistent with an automated screen.
+- **1–2 days (Cisco, Amazon Integrated Campaigns):** consistent with an automated screen.
 - **CVS (1.6 days):** the Senior Content Designer resume was logged against a Scrum Master requisition. Likely a submission error. Excluded from screening analysis.
-- **3–13 days (Wealthfront, Airbnb, Spring Health, PwC, Chime):** mix of screening and human review.
+- **3–12 days (Wealthfront, Airbnb, Hospitable, Spring Health, AngelList, PwC):** mix of screening and human review. Two say "after reviewing your work," which suggests a person looked.
 - **~4 weeks (Bolt.new, Amazon AWS):** late batch declines.
-- **"Filled" (Chime, Bolt.new):** the role closed. Excluded from ATS-versus-human analysis.
-- **Three Staff-level roles failed fast** (Airbnb, Spring Health, Bolt.new). Possible pattern, too few points to call it.
+- **"Filled" (Chime, Bolt.new, Brightway):** the role closed. Excluded from ATS-versus-human analysis.
+- **Staff-level roles:** Airbnb, Spring Health and Hospitable (all Staff) were declined in 3–6 days. Possible pattern, too few points to call it.
+- **No reply in 70+ days:** Notion, CAI, Red Ventures, SS&C. These are most likely dead.
 
 ## What drove deeper discovery
 
@@ -46,12 +48,13 @@ All tagged links land on `/software`. Only IQ Fiber and Bumble got a company-spe
 
 ## Process gap
 
-Two mismatches between Drive and the ATS emails (CVS req, several resumes with no confirmation) mean the submission step is where records drift. Logging the req ID and confirmation email at submission (SOP Step 7) would catch this the same day.
+Two mismatches between Drive and the ATS emails mean the submission step is where records drift: the CVS requisition, and 10 applications with no confirmation email (5 of them Google, 2 Capital One). Logging the req ID and confirmation email at submission (SOP Step 7) would catch this the same day.
 
 ## Options to consider
 
 - **Company page test:** build a company-specific page for the next top-priority application and compare against `/software` links.
 - **Follow up on EY:** most outside reading after IQ Fiber, no decision after 17 days.
 - **Self-exclusion:** add a self-exclusion flag to the tracking snippet (a localStorage opt-out on Jon's browsers) before judging any more `?ref=` data.
+- **Check candidate portals:** Google and Capital One normally send a confirmation per application. Their portals would show whether those 7 submissions went through.
 - **CVS:** check Candidate Home to see which title the application is filed under. No CVS content design role is live as of 9/30.
 - **Staff-level roles:** track Staff-level results separately to test the fast-rejection pattern.
