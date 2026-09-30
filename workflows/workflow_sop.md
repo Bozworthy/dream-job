@@ -4,7 +4,11 @@
 Produce the best roles, and why they are the best, for Jon to apply to and provide a tailored resume and the information he needs to optimize his success probability of getting the job.
 
 ## Job tracker
-Location: unresolved as of 2026-09-17. This is explicitly NOT the Google Sheet above (it was created 2026-09-07, abandoned unused, and confirmed empty as of 2026-09-17) — Jon decided against Google Sheets because Claude had no way to write to it. Jon confirms a real tracker exists and is current (used to confirm the Pinterest application, applied 2026-09-07), but its actual location hasn't been identified in this session — checked and ruled out: this Drive account (broad search, all file types), Gmail, every Claude Artifact on the account, every published Replit app, and this repo's local files. Get the location from Jon directly rather than guessing again. Once resolved, replace this note with the real location and access method.
+Location: outputs/application_tracker.md in this repo (created 2026-09-30). Claude reads and writes it directly and commits changes. Rebuild sources when something is missing: Gmail ATS confirmation/decision emails, and the portfolio dashboard.
+
+Portfolio analytics: website-analytics-hub.replit.app (Replit). Its /events page is the raw page-view feed, not an application tracker. Read data through the API: /api/analytics/recent?page=N (50 events per page, newest first), and /api/analytics/{summary,top-pages,referrers,attribution,devices}?period=all. Jon uses macOS only, so non-macOS visits are other people. Google Analytics is not part of this workflow.
+
+Funnel syntheses (Step 11) are saved as outputs/funnel_snapshot_{date}.md.
 
 ## Process
 Step 0: Check the job tracker before running any search pass — automated or on-demand. Cross-reference every company/role already applied to (or already in the pipeline) against what the search is about to surface, so an already-applied role doesn't get re-presented as a new recommendation. This is a real, confirmed failure mode: the week of 2026-09-14, Pinterest's Content Designer II, Personalization role got presented fresh every day Monday through Thursday, despite Jon having applied to it 2026-09-07, because nothing checked the tracker first.
