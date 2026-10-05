@@ -12,9 +12,9 @@ UX writer and content designer with 10+ years in product content. My conversatio
 
 **skills**
 
-UX Writing · Content Design · Conversation Design · LLM Prompting & Prompt Engineering · Content Guidelines & Standards · Content Models · Design Systems · Information Architecture · Behavioral Design · Cross-Functional Facilitation
+UX Writing · Content Design · Content Strategy · LLM Prompting · Generative AI · Content Guidelines · Content Principles · Systems Thinking · Systems Design · Product Strategy · Storytelling · Interaction Patterns · Accessibility · Cross-Functional Collaboration
 
-Tools: Figma (incl. interactive prototyping) · FigJam · Miro · Jira/Atlassian Suite · Git, command line, and GitHub · NLP and regex
+Tools: Figma
 
 -----
 

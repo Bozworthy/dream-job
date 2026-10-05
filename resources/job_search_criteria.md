@@ -59,5 +59,6 @@ Former Credit Karma and Intuit colleagues who now work at other companies are fi
 
 ## Operating constraints
 * Nothing goes into resume/portfolio copy without direct verification against the SOT — strict metric fidelity, no fabrication
+* Resume skills and tools lines list only terms the JD names explicitly, in the JD's wording, and only ones the SOT supports (see workflow_sop.md, Step 3)
 * Fit/risk concerns get flagged once, then Claude executes on Jon's call — no relitigating after he's decided
 * Every posting gets checked against criterion 1 (required) and criterion 2 (ranking signal) before anything is built

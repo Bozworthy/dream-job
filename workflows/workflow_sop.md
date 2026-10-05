@@ -36,6 +36,12 @@ Step 2: Identify the top 3-5 roles from the most recent search, sorted by priori
 
 Step 3: Tailor Jon's resume for each role, matching to his preferred content design and formatting.
 
+Skills and tools rule (Jon, 2026-10-05). The skills line and tools line on a tailored resume contain only skills and tools the job description names explicitly, using the JD's own wording. The goal is to get past ATS keyword matching. Airbnb's 9/14 Staff UX Writer resume listed skills the posting never named and was rejected in 3 days.
+1. Pull every skill and tool term from the JD text, with an exact-text search of the live posting, not a summary.
+2. Keep only the terms Jon can truthfully claim per source_of_truth.md. A JD term with no SOT support stays off the resume. List those terms for Jon as gaps to confirm.
+3. Leave off any skill or tool the JD doesn't name, even a true and impressive one. Those can still show up in experience bullets when the work itself is relevant.
+4. Use the JD's phrasing ("LLM prompting," not "prompt engineering") when the SOT supports the same thing.
+
 Step 4: Evaluate and send Jon the list with details and overviews and tailored resume. Alongside each resume, provide:
 1. The most direct link to apply at the company — the employer's own careers site or ATS, per the posting qualification criteria in job_search_criteria.md, not an aggregator.
 2. Alignment insights that can inform a cover letter — why Jon specifically fits this role, pulled from source_of_truth.md, not written fresh.
