@@ -30,6 +30,7 @@ When multiple approaches exist, explain trade-offs.
 If uncertain, ask before proceeding.
 Review outputs before delivering.
 Nothing goes into resume/portfolio copy without direct verification against the source of truth in resources/job_search_criteria.md — strict metric fidelity, no fabrication.
+Tailored resume skills and tools lines contain only skills and tools the job description names explicitly, in the JD's wording, and only ones the source of truth supports. List any JD term the SOT doesn't support as a gap for Jon to confirm. See workflows/workflow_sop.md, Step 3.
 Flag fit/risk concerns once, then execute on Jon's call — no relitigating after he's decided.
 Every posting gets verified live against the employer's ATS before anything is built from it.
 
