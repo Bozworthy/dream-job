@@ -45,7 +45,13 @@ Highest recurring interest / target companies: Bumble, Google, Meta, Apple, Netf
 **Reputability bar for companies found outside the named list** (via the platform-wide role sweep): the employer should be a recognizable, established product company or a credibly funded/growing startup, not a staffing firm, agency-of-record, or content mill. When in doubt, include it and flag the doubt rather than silently dropping it — Jon makes that call, not the filter. This bar decides whether an unnamed company's posting is worth surfacing at all; it doesn't replace the two-tier posting qualification below, which every posting from every company still has to pass.
 
 ## Exclusions
+Hard exclusions (confirmed by Jon 2026-10-05). Never search, recommend, or tailor for these:
 * Fidelity
+* Intuit, including its subsidiaries (Credit Karma, QuickBooks, TurboTax, Mailchimp)
+
+Open question: whether "Fidelity" also covers FIS (Fidelity National Information Services, a separate company headquartered in Jacksonville). Treat FIS as excluded until Jon says otherwise.
+
+Former Credit Karma and Intuit colleagues who now work at other companies are fine to contact for referrals. The exclusion applies to the employer, not the people.
 
 ## Posting qualification criteria
 1. **Employer-side verification (required)** — the role is currently live on the employer's own careers site or official ATS (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, etc.), and the application resolves to the employer's legitimate application flow. A posting that fails this is excluded outright — and "fails" includes "couldn't be confirmed," not just "confirmed closed." A tool error, a JS-rendered page that can't be read, a domain that won't load — none of that is a pass. If verification can't be completed, the posting does not go in the report. Note the attempt and the failure reason in memory for the next pass (worth retrying), but don't present the posting to Jon until it actually passes. This was violated the week of 2026-09-14: two postings that never once passed verification (repeated tool failures, not confirmed-live status) were still included in every report that week with a "couldn't verify" caveat instead of being excluded. A caveat is not a substitute for passing the check.

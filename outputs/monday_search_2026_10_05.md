@@ -1,6 +1,6 @@
 # Monday search, 2026-10-05
 
-Checked: Greenhouse, Ashby, and Lever APIs (about 350 companies), 55 Workday employers, Amazon, Netflix, Intuit, and web-search sweeps for each platform. Everything below was confirmed live on the employer's site today. Excluded per Jon: Airbnb Staff UX Writer AI and CVS Senior Content Designer.
+Checked: Greenhouse, Ashby, and Lever APIs (about 350 companies), 55 Workday employers, Amazon, Netflix, and web-search sweeps for each platform. Everything below was confirmed live on the employer's site today. Excluded per Jon: Airbnb Staff UX Writer AI and CVS Senior Content Designer.
 
 The market is thin this week. Only two target-level postings are newer than 9/28 (Figma and Airbnb). Most strong-fit postings are 2 to 5 weeks old.
 
@@ -41,7 +41,6 @@ The market is thin this week. Only two target-level postings are newer than 9/28
 - **Challenges:** RFP and proposal writing isn't your field. The wide grade range means an offer could land below your floor. CVS rejected your Scrum Master application in 2 days.
 
 **Below the line**
-- **Intuit: Principal, Mid-Market Content Strategy.** Mountain View, $205K–$277.5K, B2B marketing, no remote option.
 - **Rocket: Lead Content Designer.** Detroit, open until 10/31.
 - **Amazon: Senior Conversation Designer, Alexa+.** San Francisco or Seattle.
 - **Citi: Senior Investments Content Strategist.** NYC, $164K–$245K. It needs deep wealth-management investment expertise, which isn't in your record.
@@ -58,10 +57,9 @@ Your own numbers point the way. About 34 cold applications produced one target-l
 2. **Use referrals for the target roles.**
    - Cold applications have produced one response in 34. Referrals usually get a human to read the resume.
    - For every target role, find a former Credit Karma or Intuit colleague, or a second-degree LinkedIn connection, at that company before applying. Ask for a referral or a 15-minute call.
-   - Intuit itself is an option: boomerang hires skip a lot of screening, and your titles and years there are verifiable.
 3. **Check Jacksonville employers directly.**
    - Local roles moved fastest for you (IQ Fiber).
-   - Large Jacksonville employers with design and digital teams: Florida Blue/GuideWell, Availity, Fanatics, VyStar, Mayo Clinic, Baptist Health, and FIS.
+   - Large Jacksonville employers with design and digital teams: Florida Blue/GuideWell, Availity, Fanatics, VyStar, Mayo Clinic, and Baptist Health. (FIS is held out until the Fidelity question is settled.)
    - Their job sites weren't reachable through the standard Workday endpoints this pass, so I'll map them for the next search.
    - Your exclusion list says "Fidelity." Does that cover FIS (Fidelity National Information Services), or only Fidelity Investments?
 4. **Apply in the first days a posting is up.**
@@ -72,3 +70,6 @@ Your own numbers point the way. About 34 cold applications produced one target-l
    - The /ckm-redesign summary box still shows the fabricated "+30% adoption / -25% support calls" figures.
 
 Trade-off to weigh: a full-time contract cuts the time you have for the search. A remote contract keeps the search going, and income plus current work makes it easier to hold out for the right offer.
+
+
+Update 2026-10-05: Jon confirmed Fidelity and Intuit are hard exclusions. The Intuit role and the suggestion to return to Intuit were removed from this report.
