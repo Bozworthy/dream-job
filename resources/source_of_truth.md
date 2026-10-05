@@ -420,6 +420,18 @@ SIGNATURE STRENGTHS
 - Behavioral design — formal cognitive-science training gives a principled basis for decisions most designers make by intuition.
 
 ============================================================
+ADDENDUM — CONFIRMED BY JONATHAN, 2026-10-05
+============================================================
+
+- PODCAST: Co-host of Floridation (https://floridation.buzzsprout.com/), a podcast about Florida culture recorded at Cork Arts District, Jacksonville, co-hosted with Will. Season 1 (2025) covered Florida politics. Season 2 features interviews with local artists and culture-makers in North Florida; 8 episodes into Season 2 as of 2026-10-05. Supports podcast production and interviewing claims.
+- AGENCY PARTNER MANAGEMENT: Jonathan has managed agency partners. Hi Design, hi. (Harbinger Innovation), and Groundswell are all agencies.
+- EVENTS & EXPERIENTIAL DESIGN:
+  - hi. (Harbinger Innovation), 2013–2015: designed events and experiential design. Co-chair, SEGD North Florida. Designed John Gorrie Dog Park.
+  - Maritime Creative (contract), 2018: designed customer experiences for StubHub Super Bowl events in New Orleans.
+- EMPLOYER BRAND: employer brand work for Adecco, and for Maritime Creative client Monomoy Capital.
+- HEALTHCARE: healthcare writing, design, and marketing work for GuideWell / Florida Blue. Dates and engagement type (employer, client, or contract) not yet confirmed. Use undated until Jonathan supplies them.
+
+============================================================
 PERMANENTLY EXCLUDED CLAIMS — NEVER USE, REGARDLESS OF SOURCE
 ============================================================
 
