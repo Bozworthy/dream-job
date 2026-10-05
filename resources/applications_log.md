@@ -39,6 +39,7 @@ Rebuilt 2026-09-23. Application date = the Google Drive creation date of the tai
 | 9/25 | Huge | Director, AI Content Strategy | Confirmation only | |
 | 10/5 | Airbnb | Staff UX Writer, AI (8240421) | Submitted 10/5, ATS confirmation 17:41 UTC (Gem/Airbnb). Resume: JD-only skills line (first test of the rule). Cover letter: Jonathan_Bosworth_CL-Airbnb-Staff_UX_Writer_AI. Tracking: ?ref=airbnb-suxw-ai. Prior Airbnb rejection 9/17 (Host role, 3 days) | |
 | 10/5 | Figma | Content Strategist, Product (6207950004) | Submitted 10/5, ATS confirmation 17:56 UTC (Figma). Other-info blurb included. Tracking: ?ref=figma-csp | |
+| 10/5 (resume only) | PointClickCare | Content Strategist, Contract (US) (Lever a88bdd3a) | Claude created the resume Google Doc 10/5. JD-only skills line. Tracking ?ref=pcc-cs. Not applied until Jon confirms | |
 | ~9/30 | Onward Search (agency) | Digital Content Strategist (client unnamed) | AI screen 10/2, told he passed | |
 
 ## Funnel as of 2026-10-05 (about 34 entries)
