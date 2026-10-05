@@ -2,7 +2,7 @@ Dear PointClickCare hiring team,
 
 This role asks for someone who builds the plan and delivers the work. That has been my job since my first editorial role.
 
-As managing editor of EU Jacksonville, a 30,000-circulation arts and entertainment weekly, I set editorial direction, managed writers and production staff, and shipped an issue every week. I grew the paper's web traffic more than 500% in under six months. That's where I learned to plan a calendar and hit the deadline every week.
+As managing editor of EU Jacksonville, a 30,000-circulation arts and entertainment weekly, I set editorial direction, managed writers and production staff, and shipped a new issue each week. I grew the paper's web traffic more than 500% in under six months. That's where I learned to plan a calendar and hit the deadline.
 
 I still make owned content. I co-host Floridation, a podcast about Florida culture, now eight episodes into its second season of interviews with North Florida artists and culture-makers. I write case studies on my own blog. Turning an expert's knowledge into a story an audience wants is the same work your thought leadership program needs from executives and subject matter experts.
 
