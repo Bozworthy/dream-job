@@ -37,8 +37,8 @@ Rebuilt 2026-09-23. Application date = the Google Drive creation date of the tai
 | 9/25 | JPMorgan Chase | Content Design VP, Small Business (210789145) | Confirmation only | |
 | 9/25 | Wealthsimple | Staff Content Designer, Investing | Rejected 10/2 | 7 |
 | 9/25 | Huge | Director, AI Content Strategy | Confirmation only | |
-| 10/5 | Airbnb | Staff UX Writer, AI (8240421) | Submitted 10/5, confirmed by Jon ~17:57 UTC. Resume: JD-only skills line (first test of the rule). Cover letter: Jonathan_Bosworth_CL-Airbnb-Staff_UX_Writer_AI. Tracking: ?ref=airbnb-suxw-ai. Prior Airbnb rejection 9/17 (Host role, 3 days) | |
-| 10/5 | Figma | Content Strategist, Product (6207950004) | Submitted 10/5, confirmed by Jon ~17:57 UTC. Other-info blurb included. Tracking: ?ref=figma-csp | |
+| 10/5 | Airbnb | Staff UX Writer, AI (8240421) | Submitted 10/5, ATS confirmation 17:41 UTC (Gem/Airbnb). Resume: JD-only skills line (first test of the rule). Cover letter: Jonathan_Bosworth_CL-Airbnb-Staff_UX_Writer_AI. Tracking: ?ref=airbnb-suxw-ai. Prior Airbnb rejection 9/17 (Host role, 3 days) | |
+| 10/5 | Figma | Content Strategist, Product (6207950004) | Submitted 10/5, ATS confirmation 17:56 UTC (Figma). Other-info blurb included. Tracking: ?ref=figma-csp | |
 | ~9/30 | Onward Search (agency) | Digital Content Strategist (client unnamed) | AI screen 10/2, told he passed | |
 
 ## Funnel as of 2026-10-05 (about 34 entries)
