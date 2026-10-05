@@ -59,9 +59,8 @@ Your own numbers point the way. About 34 cold applications produced one target-l
    - For every target role, find a former Credit Karma or Intuit colleague, or a second-degree LinkedIn connection, at that company before applying. Ask for a referral or a 15-minute call.
 3. **Check Jacksonville employers directly.**
    - Local roles moved fastest for you (IQ Fiber).
-   - Large Jacksonville employers with design and digital teams: Florida Blue/GuideWell, Availity, Fanatics, VyStar, Mayo Clinic, and Baptist Health. (FIS is held out until the Fidelity question is settled.)
+   - Large Jacksonville employers with design and digital teams: Florida Blue/GuideWell, Availity, Fanatics, VyStar, Mayo Clinic, and Baptist Health.
    - Their job sites weren't reachable through the standard Workday endpoints this pass, so I'll map them for the next search.
-   - Your exclusion list says "Fidelity." Does that cover FIS (Fidelity National Information Services), or only Fidelity Investments?
 4. **Apply in the first days a posting is up.**
    - Your one callback came from applying 7 days after posting. Most of today's strong fits are 2 to 5 weeks old.
    - Running the full search on Tuesday as the SOP says, and applying within 72 hours of a posting going up, should help.

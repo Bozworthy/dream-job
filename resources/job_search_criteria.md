@@ -46,10 +46,10 @@ Highest recurring interest / target companies: Bumble, Google, Meta, Apple, Netf
 
 ## Exclusions
 Hard exclusions (confirmed by Jon 2026-10-05). Never search, recommend, or tailor for these:
-* Fidelity
+* Fidelity, meaning every company associated with Fidelity: Fidelity Investments, FIS (Fidelity National Information Services), FWM, Fidelity National Financial and its title companies, and any other Fidelity-named or Fidelity-affiliated company
 * Intuit, including its subsidiaries (Credit Karma, QuickBooks, TurboTax, Mailchimp)
 
-Open question: whether "Fidelity" also covers FIS (Fidelity National Information Services, a separate company headquartered in Jacksonville). Treat FIS as excluded until Jon says otherwise.
+When a company's link to Fidelity is unclear, leave it out and mention it to Jon.
 
 Former Credit Karma and Intuit colleagues who now work at other companies are fine to contact for referrals. The exclusion applies to the employer, not the people.
 
