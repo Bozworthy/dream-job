@@ -37,6 +37,8 @@ Rebuilt 2026-09-23. Application date = the Google Drive creation date of the tai
 | 9/25 | JPMorgan Chase | Content Design VP, Small Business (210789145) | Confirmation only | |
 | 9/25 | Wealthsimple | Staff Content Designer, Investing | Rejected 10/2 | 7 |
 | 9/25 | Huge | Director, AI Content Strategy | Confirmation only | |
+| 10/5 (resume only) | Airbnb | Staff UX Writer, AI (8240421) | Claude created the resume Google Doc 10/5. Not applied until Jon confirms | |
+| 10/5 (resume only) | Figma | Content Strategist, Product (6207950004) | Claude created the resume Google Doc 10/5. Not applied until Jon confirms | |
 | ~9/30 | Onward Search (agency) | Digital Content Strategist (client unnamed) | AI screen 10/2, told he passed | |
 
 ## Funnel as of 2026-10-05 (about 34 entries)
@@ -54,3 +56,5 @@ Rebuilt 2026-09-23. Application date = the Google Drive creation date of the tai
 - 2026-09-23, Amazon Sr. UX Conversation Designer (8/27): no issues after the 10/5 correction.
 - 2026-10-05, the 9/25 resumes (Capital One Core Card, CVS, JPMorgan Chase, Huge, Wealthsimple), Jon's 9/30 email to Capital One, and Bosworth-Design Leader-Resume_2026: see outputs/search_report_2026_10_05.md, "Resume audits". Biggest item: the 9/30 Capital One email uses the permanently excluded "+30% feature adoption" figure.
 - The other 26 resumes haven't been audited yet.
+
+Note (2026-10-05): from now on, Claude creates some resume Google Docs itself. A Drive creation date is no longer proof of an application for files Claude made. Count those as applied only once Jon confirms he submitted.
