@@ -58,3 +58,13 @@ Rebuilt 2026-09-23. Application date = the Google Drive creation date of the tai
 - The other 26 resumes haven't been audited yet.
 
 Note (2026-10-05): from now on, Claude creates some resume Google Docs itself. A Drive creation date is no longer proof of an application for files Claude made. Count those as applied only once Jon confirms he submitted.
+
+## Agency / contract track
+| Signed up | Agency | Status | Next step |
+|---|---|---|---|
+| ~9/30 | Onward Search | AI screen passed 10/2. Recruiter call booked by Jon 10/5 | Ask for client, rate, start, W2 or 1099 |
+| 10/5 | Aquent Talent (Vitamin T) | Profile created. No relevant roles listed | Wait for portfolio review or recruiter contact. Follow up 10/12 if silent |
+| 10/5 | Creative Circle | Account created. No relevant roles listed | Wait for registration call. Follow up 10/12 if silent |
+| 10/5 | 24 Seven Talent | Registration still processing; job board not visible yet | Check status 10/7. Follow up 10/12 if silent |
+
+Rate floor given to agencies: $50/hour W2.
