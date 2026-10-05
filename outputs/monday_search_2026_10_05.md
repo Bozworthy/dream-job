@@ -72,3 +72,5 @@ Trade-off to weigh: a full-time contract cuts the time you have for the search. 
 
 
 Update 2026-10-05: Jon confirmed Fidelity and Intuit are hard exclusions. The Intuit role and the suggestion to return to Intuit were removed from this report.
+
+Update 2026-10-05: Jon is not pursuing the GEICO Senior PM role for now.
