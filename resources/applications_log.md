@@ -11,11 +11,11 @@ Rebuilt 2026-09-23. Application date = the Google Drive creation date of the tai
 | 8/19 | Think Company | Content Strategist & Conversational Designer | None found | |
 | 8/20 | Google | Senior Staff UX Content Designer, Cloud AI | None found | |
 | 8/21 | Bolt | Staff Content Designer | None found | |
-| 8/21 | Pax8 | Sr UX Writer | None found | |
+| 8/21 | Pax8 | Sr UX Writer | Rejected 10/1 | 41 |
 | 8/27 | Amazon | Sr. UX Conversation Designer (probably Customer Service, job 10441051, still live) | None found | |
 | 8/27 | NeuraFlash | Conversational Design | None found | |
 | 8/27 | Spring Health | Staff AI Interaction Designer | Rejected 9/3 | 7 |
-| 8/28 | AWS | Content Strategist | None found | |
+| 8/28 | AWS | Sr. Content Strategist, IDC CX Content Strategy (10504863) | Rejected 9/27 | 30 |
 | 8/28 | Mellow Mushroom Avondale | (non-target) | None found | |
 | 8/31 | Ethos | Staff Content Designer | None found | |
 | 8/31 | Adjective Co | Creative Strategy | None found | |
@@ -32,14 +32,25 @@ Rebuilt 2026-09-23. Application date = the Google Drive creation date of the tai
 | 9/14 | Airbnb | Staff UX Writer (Host) | Rejected 9/17 | 3 |
 | 9/14 | Netflix | Staff Systems Designer, Language | Confirmation only | |
 | 9/15 | Google | Staff UX Content Designer, YouTube Creators Monetization | None found | |
+| 9/25 | Capital One | Content Designer, Manager, Core Card Experiences (R1001198) | Recruiter screen request 9/30. Call offered Tue 10/6 10:30am | 5 |
+| 9/25 | CVS Health | Senior Content Designer (resume made). Only confirmation found is for R1040611 Senior Manager, Scrum Master | Scrum Master rejected 9/27. Content designer application unconfirmed | 2 |
+| 9/25 | JPMorgan Chase | Content Design VP, Small Business (210789145) | Confirmation only | |
+| 9/25 | Wealthsimple | Staff Content Designer, Investing | Rejected 10/2 | 7 |
+| 9/25 | Huge | Director, AI Content Strategy | Confirmation only | |
+| ~9/30 | Onward Search (agency) | Digital Content Strategist (client unnamed) | AI screen 10/2, told he passed | |
 
-## Funnel so far (28 entries)
+## Funnel as of 2026-10-05 (about 34 entries)
+- Target-level human response: 1 (Capital One Core Card, 5 days).
+- Rejections: 7 (Spring Health 7d, Airbnb 3d, Chime 13d, CVS Scrum Master 2d, AWS 30d, Pax8 41d, Wealthsimple 7d).
+
+## Funnel as of 2026-09-23 (28 entries)
 - Human replies that moved forward: 1 (IQ Fiber, a local role below target level).
 - Rejections: 3 (Spring Health after 7 days, Airbnb after 3, Chime after 13).
 - No response past the confirmation: 24, some of them now 4 to 7 weeks old.
 - Across about 25 target-level content or conversation design applications, none has reached a human screen yet.
 
 ## Resume audits against the SOT
-- 2026-09-23, Capital One Sr Mgr Content Design (8/31): Penny listed under randrr (SOT: Credit Karma 2018–2019); "80% of claims within a week" (retired; SOT: within 5 minutes); Vizergy "Director of Content" (SOT: Manager, Content Strategy); "feature discovery 19–54%, adoption 4–45%" not in SOT.
-- 2026-09-23, Amazon Sr. UX Conversation Designer (8/27): "feature discovery 19–54%, adoption 4–45%" not in SOT.
+- 2026-09-23, Capital One Sr Mgr Content Design (8/31): Penny listed under randrr (SOT: Credit Karma 2018–2019); "80% of claims within a week" (retired; SOT: within 5 minutes); Vizergy "Director of Content" (SOT: Manager, Content Strategy). (Correction 10/5: the 19–54% / 4–45% figures ARE in the SOT; the 9/23 flag was a search error.)
+- 2026-09-23, Amazon Sr. UX Conversation Designer (8/27): no issues after the 10/5 correction.
+- 2026-10-05, the 9/25 resumes (Capital One Core Card, CVS, JPMorgan Chase, Huge, Wealthsimple), Jon's 9/30 email to Capital One, and Bosworth-Design Leader-Resume_2026: see outputs/search_report_2026_10_05.md, "Resume audits". Biggest item: the 9/30 Capital One email uses the permanently excluded "+30% feature adoption" figure.
 - The other 26 resumes haven't been audited yet.

@@ -77,6 +77,13 @@ Confirmed the pattern works (bumbleinc returns `[]` — correctly reflects their
 
 Bulk slug sweep (used 2026-09-23): Loop a list of company slugs through all three APIs (Greenhouse, Ashby, Lever) and regex-filter titles. This covers far more companies than web search, but only for slugs you think to include.
 
+| Airbnb | Greenhouse | `boards-api.greenhouse.io/v1/boards/airbnb/jobs` | Job pages live at careers.airbnb.com/positions/{id}. Remote roles exclude some states. |
+| Rocket (Quicken Loans) | Workday | `quickenloans.wd5.myworkdayjobs.com`, site `rocket_careers` | Content design roles are Detroit-based. |
+| Autodesk | Workday | `autodesk.wd1.myworkdayjobs.com`, site `Ext` | Content strategy roles seen so far are Canada or EMEA. |
+| Humana | (see above) | | The AVP Conversational Channels CXS URL returned 403 on 2026-10-05, probably closed. |
+
+Note 2026-10-05: grep the SOT with `LC_ALL=C.UTF-8` and `-F`. Without it, en-dash ranges like "19–54%" don't match, which caused a false "not in SOT" flag on 9/23.
+
 ## Efficiency rule going forward
 1. If the company is in the table above with a working API, call the API first — it's a single request, always current, no dead links possible.
 2. If the company has a custom site with its own live search (Google, Meta, Stripe, PayPal), use that search directly with the query term — never a bare web search.
